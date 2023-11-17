@@ -1,6 +1,9 @@
 {
   "name": "DigitalSignage",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
   "description": "This is a user interface for a dynamic digital signage",
   "main": "index.js",
   "scripts": {
